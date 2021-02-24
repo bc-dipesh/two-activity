@@ -1,4 +1,4 @@
-# Two Activities
+# Two Activity
 
 ## App Screen Shots
 
